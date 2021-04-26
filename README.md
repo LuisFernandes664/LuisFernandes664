@@ -1,7 +1,7 @@
 ## Meu nome é Luís Fernandes
 
 
-- 🌱 Atualmente estou a aprender técnicas de desenvolvimento web, tenho gostado bastante. :smile:
+- 🌱 Atualmente estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
 
 
 ## Sobre mim
