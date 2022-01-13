@@ -5,11 +5,11 @@
 
 
 ## Sobre mim
-
+<!--"200em"-->
 <div>
   <a href="https://github.com/Luisfernandes664">
-  <img height="300em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Luisfernandes664&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfernandes664&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="230em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Luisfernandes664&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfernandes664&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
 <div style="display: inline_block"><br>
