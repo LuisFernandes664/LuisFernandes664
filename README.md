@@ -10,7 +10,7 @@
   <a href="https://github.com/Luisfernandes664">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Luisfernandes664&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfernandes664&layout=compact&langs_count=8&theme=dracula"/>
-<div>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
