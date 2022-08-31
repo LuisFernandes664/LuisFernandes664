@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
 
 
-## Sobre mim
+
 <!--"200em"-->
 <div align="center">
   <a href="https://github.com/Luisfernandes664">
@@ -12,7 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfernandes664&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=LuisFernandes664&theme=dracula&hide_border=true&area=true)
+##
+
+<p width="49" align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=LuisFernandes664&theme=dracula&hide_border=true&area=true" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuisFernandes664&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
