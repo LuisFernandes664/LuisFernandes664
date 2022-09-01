@@ -3,10 +3,23 @@
 
 ---
 
--  Atualmente Estudante "Desenvolvimento Web e Multimédia" no IPCA 
--  Curso Profissional terminado: "Técnico de Informática e Gestão"
--  Estudante apaixonado por programação
--  Estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
+<br>
+
+<img
+src="https://raw.githubusercontent.com/gist/rlksx/6170b2029fc9283b7475e58c15b7a647/raw/72fca0727cf10fea029cdd0d0026d7a6bd2e256d/bro-codding.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
+<p align=left>
+  -  Atualmente Estudante "Desenvolvimento Web e Multimédia" no IPCA 
+</p>
+<p align=left>
+  -  Curso Profissional terminado: "Técnico de Informática e Gestão"
+</p>
+<p align=left>
+  -  Estudante apaixonado por programação
+</p>
+<p align=left>
+  -  Estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
+</p>
+<br>
 
 ---
 
