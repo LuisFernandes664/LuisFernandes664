@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/gist/rlksx/6170b2029fc9283b7475e58c15b7a6
 
 <br>
 
-<p align=left>
+<p margin-top= "25px" align=left>
 
 -  Atualmente Estudante "Desenvolvimento Web e Multimédia" no IPCA 
   
