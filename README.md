@@ -27,6 +27,11 @@
 -  Estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
   
 </p>
+<p align=left>
+  
+- 📫 Como entrar em contacto: luisfernandesa664@gmail.com
+  
+</p>
 <br>
 
 ---
