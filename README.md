@@ -1,9 +1,14 @@
-## Meu nome é Luís Fernandes
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+Nome+%C3%A9+Luís+Fernandes;E+Tenho+20+Anos;)](https://git.io/typing-svg)
 
+---
 
-- 🌱 Atualmente estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
+-  Atualmente Estudante "Desenvolvimento Web e Multimédia" no IPCA 
+-  Curso Profissional terminado: "Técnico de Informática e Gestão"
+-  Estudante apaixonado por programação
+-  estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
 
-</br>
+---
 
 <!--"200em"-->
 <div align="center">
@@ -22,8 +27,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LuisFernandes664&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-<div align=center><br>
+<h2 align="center">Tecnologias</h2>
+  
+<div align=center>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
