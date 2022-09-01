@@ -6,7 +6,7 @@
 -  Atualmente Estudante "Desenvolvimento Web e Multimédia" no IPCA 
 -  Curso Profissional terminado: "Técnico de Informática e Gestão"
 -  Estudante apaixonado por programação
--  estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
+-  Estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
 
 ---
 
