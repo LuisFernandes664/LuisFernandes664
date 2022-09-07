@@ -9,22 +9,22 @@
 
 <p margin-top= "25px" align=left>
 
--  Atualmente Estudante "Desenvolvimento Web e Multimédia" no IPCA 
+- 💻 Atualmente Estudante "Desenvolvimento Web e Multimédia" no IPCA 
   
 </p>
 <p align=left>
 
--  Curso Profissional terminado: "Técnico de Informática e Gestão"
+- 📚 Curso Profissional terminado: "Técnico de Informática e Gestão"
   
 </p>
 <p align=left>
 
--  Estudante apaixonado por programação
+- 💖 Estudante apaixonado por programação
   
 </p>
 <p align=left>
 
--  Estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
+- 📝 Estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
   
 </p>
 <p align=left>
