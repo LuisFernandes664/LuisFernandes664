@@ -47,7 +47,7 @@
 # 📊 GitHub Stats:
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfernandes664&theme=dark&hide_border=true">
 </div>
 
@@ -64,6 +64,6 @@
 ---
 ![Snake animation](https://github.com/LuisFernandes664/LuisFernandes664/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://visitcount.itsvg.in/api?id=luisfernandes664&label=Profile%20Views&color=12&pretty=true" />
 
-[![](https://visitcount.itsvg.in/api?id=luisfernandes664&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+
+![Profile views](https://gpvc.arturio.dev/luisfernandes664)
