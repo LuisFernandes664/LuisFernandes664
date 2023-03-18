@@ -64,6 +64,6 @@
 ---
 ![Snake animation](https://github.com/LuisFernandes664/LuisFernandes664/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=luisfernandes664&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=luisfernandes664&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=luisfernandes664&label=Profile%20Views&color=12&pretty=true" />
+</a>
