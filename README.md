@@ -52,8 +52,8 @@
 
 <div align="center" width="100%">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfernandes664&theme=dark&hide_border=true" alt="luisfernandes664" />
-  <img width="43%" height="200em" src="https://github-readme-stats.vercel.app/api?username=luisfernandes664&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_border=true" alt="luisfernandes664" />  
-  <img width="45%" height="200em" padding="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandes664&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="luisfernandes664" />
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=luisfernandes664&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_border=true" alt="luisfernandes664" />  
+  <img height="200em" padding="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandes664&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="luisfernandes664" />
 </div>
 
 ---
