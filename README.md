@@ -30,7 +30,7 @@
 <p align=left>
 
 - 📝 Estou a aprender desenvolvimento web, tenho gostado bastante. :smile:
-  
+
 </p>
 <p align=left>
   
