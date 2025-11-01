@@ -85,12 +85,12 @@
 # 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfernandes664&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=luisfernandes664&theme=dark&hide_border=false" alt="luisfernandes664" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luisfernandes664&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=luisfernandes664&theme=dark&hide_border=false" alt="luisfernandes664" />
 </div>
 
 <div align="center">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandes664&layout=compact&langs_count=8&theme=dark&hide_border=false"/>
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandes664&layout=compact&langs_count=8&theme=dark&hide_border=false"/>
 </div>
 
 ---
