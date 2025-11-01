@@ -1,5 +1,5 @@
 ### Olá 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=28&center=true&vCenter=true&width=1000&lines=Olá,+o+meu+nome+é+Luís+Fernandes;Tenho+21+Anos;Desenvolvedor+Web+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=28&center=true&vCenter=true&width=1000&lines=Olá,+o+meu+nome+é+Luís+Fernandes;Tenho+23+Anos;Desenvolvedor+Web+Full+Stack)](https://git.io/typing-svg)
 
 ---
 
@@ -10,7 +10,7 @@
 <br>
 <p margin-top="25px" align="left">
 
-- 🎓 Licenciatura em **Desenvolvimento Web e Multimédia** pelo IPCA - Concluído
+- 🎓 TESP em **Desenvolvimento Web e Multimédia** pelo IPCA - Concluído
   
 </p>
 <p margin-top="25px" align="left">
@@ -84,10 +84,13 @@
 
 # 📊 Estatísticas do GitHub
 
-<div align="center" width="100%">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=luisfernandes664&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="luisfernandes664" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=luisfernandes664&theme=dark&hide_border=false" alt="luisfernandes664" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandes664&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="luisfernandes664" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfernandes664&show_icons=false&theme=dark&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=luisfernandes664&theme=dark&hide_border=false" alt="luisfernandes664" />
+</div>
+
+<div align="center">
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandes664&layout=compact&langs_count=8&theme=dark&hide_border=false"/>
 </div>
 
 ---
@@ -99,12 +102,14 @@
 
 ### 📈 Gráfico de Atividade
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisfernandes664&theme=github-dark&hide_border=true)](https://github.com/luisfernandes664)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisfernandes664&theme=github-dark&hide_border=false)](https://github.com/luisfernandes664)
 
 ---
 
 <div align="center">
   
-### ⭐ Obrigado pela visita!
-  
+![](https://komarev.com/ghpvc/?username=luisfernandes664&color=58A6FF&style=flat-square&label=Visitantes)
+
+**Obrigado pela visita!** ⭐
+
 </div>
