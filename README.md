@@ -74,7 +74,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisfernandes664&theme=dracula&utcOffset=1" alt="Horas mais produtivas no GitHub" />
 
 <div align="center">
 
